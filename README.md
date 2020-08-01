@@ -27,7 +27,7 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
 - Progressive Delivery
 - Data Analytics Platform
 
-### 📤
+### 📤 Contact me
 
 <a href="https://twitter.com/jedipunkz">
   <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
