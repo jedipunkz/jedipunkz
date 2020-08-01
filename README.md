@@ -1,4 +1,4 @@
-### Hello World, I'm jedipunkz.
+### 🔥 Hello World, I'm jedipunkz. 🔥
 
 I Worked as an infrastructure engineer for a long time, then as a cloud engineer, and recently as an SRE on AWS. I like to find new technologies and plan if they can be introduced.
 
@@ -22,12 +22,12 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
   - Ansible
   - Chef
 
-## I'm currently learning ..
+## 📕 I'm currently learning
 
 - Progressive Delivery
 - Data Analytics Platform
 
-### 
+### 📤
 
 <a href="https://twitter.com/jedipunkz">
   <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
