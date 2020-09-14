@@ -25,7 +25,7 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
 
 - Progressive Delivery
 - Data Analytics Platform
-- Programing
+- Coding
 
 ### 📤 Contact me
 
