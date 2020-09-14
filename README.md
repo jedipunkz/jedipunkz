@@ -13,7 +13,6 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
   - GCP
 - Orchestration Platform
   - EKS
-  - EKS
   - GKE
   - Kubernetes
   - Mesos
@@ -26,6 +25,7 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
 
 - Progressive Delivery
 - Data Analytics Platform
+- Programing
 
 ### 📤 Contact me
 
