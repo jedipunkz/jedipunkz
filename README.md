@@ -2,6 +2,9 @@
 
 I Worked as an infrastructure engineer for a long time, then as a cloud engineer, and recently as an SRE on AWS. I like to find new technologies and plan if they can be introduced.
 
+
+[![jedipunkz's github stats](https://github-readme-stats.vercel.app/api?username=jedipunkz&show_icons=true&theme=dracula)](https://github.com/jedipunkz)
+
 ### 😍 Technologies
 
 - Programing Languages
@@ -35,3 +38,4 @@ I Worked as an infrastructure engineer for a long time, then as a cloud engineer
 <a href="mailto:tomokazu.hirai@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
+
