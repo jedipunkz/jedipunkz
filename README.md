@@ -1,41 +1,17 @@
 ### 🍱 Hello World, I'm jedipunkz. 🍱
 
-I Worked as an infrastructure engineer for a long time, then as a cloud engineer, and recently as an SRE on AWS. I like to find new technologies and plan if they can be introduced.
+I've been working as an infrastructure engineer for a long time and now I'm working as an SRE or cloud engineer. I like to find and introduce new technologies. Recently, I have been developing Lambda and Bot with Go to promote automation.
 
+### 📕 I'm currently learning
 
-[![jedipunkz's github stats](https://github-readme-stats.vercel.app/api?username=jedipunkz&show_icons=true&theme=default)](https://github.com/jedipunkz)
-
-### 😍 Technologies
-
-- Programing Languages
-  - Golang 🐭
-  - Python 🐍
-- Cloud
-  - OpenStack
-  - AWS
-  - GCP
-- Orchestration Platform
-  - EKS
-  - GKE
-  - Kubernetes
-  - Mesos
-- IaC
-  - Terraform
-  - Ansible
-  - Chef
-
-## 📕 I'm currently learning
-
+- Rust
 - Progressive Delivery
 - Data Analytics Platform
-- Coding
+ 
+[![jedipunkz's github stats](https://github-readme-stats.vercel.app/api?username=jedipunkz&show_icons=true&theme=default)](https://github.com/jedipunkz)
 
-### 📤 Contact me
 
-<a href="https://twitter.com/jedipunkz">
-  <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a>
-<a href="mailto:tomokazu.hirai@gmail.com">
-  <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
+
+
+
 
