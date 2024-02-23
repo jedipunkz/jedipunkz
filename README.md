@@ -13,12 +13,12 @@ See my blog: https://jedipunkz.github.io/
 ### IaC
 [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev)
 
-### Programing
+### Programing Language
 [![My Skills](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)
 
 ### Editor
 
-[![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
 ## I'm currently learning
 
