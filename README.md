@@ -23,9 +23,10 @@ See my blog: https://jedipunkz.github.io/
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
-## I'm currently learning
+## Currently Learning
 
 - Go Coding
+- Security
 - Progressive Delivery
 - Data Analytics Platform
 
