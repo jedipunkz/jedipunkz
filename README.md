@@ -13,6 +13,9 @@ See my blog: https://jedipunkz.github.io/
 ### IaC
 [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://skillicons.dev)
 
+### Middleware, Tools
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,docker)](https://skillicons.dev)
+
 ### Programing Language
 [![My Skills](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)
 
