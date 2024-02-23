@@ -2,6 +2,8 @@
 
 I've been working as an infrastructure engineer for a long time and now I'm working as an SRE or aws cloud engineer. I like to find and introduce new technologies. 
 
+See my blog: https://jedipunkz.github.io/
+
 ## Skills
 
 ### Platform
@@ -23,9 +25,4 @@ I've been working as an infrastructure engineer for a long time and now I'm work
 - Go Coding
 - Progressive Delivery
 - Data Analytics Platform
-
-## Blog
-
-https://jedipunkz.github.io/
- 
 
