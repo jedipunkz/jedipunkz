@@ -25,8 +25,7 @@ See my blog: https://jedipunkz.github.io/
 
 ## Currently Learning
 
-- Go Coding
-- Security
-- Progressive Delivery
-- Data Analytics Platform
+- 🔭 Go Coding
+- 🌱 Security
+- 📫 Data Analytics Platform
 
