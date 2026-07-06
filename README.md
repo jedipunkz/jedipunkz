@@ -1,6 +1,6 @@
 ## About me
 
-I’m an experienced infrastructure engineer who’s now diving into the world of DevOps, SRE and AWS cloud engineering. I’m always on the lookout for cool new tech to explore and introduce into my work.
+I’m an experienced infrastructure engineer who’s now diving into the world of DevOps, SRE and AWS/Google Cloud Engineering. I’m always on the lookout for cool new tech to explore and introduce into my work.
 
 See my blog: https://jedipunkz.rocks
 
