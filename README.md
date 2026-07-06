@@ -14,10 +14,10 @@ See my blog: https://jedipunkz.rocks
 [![My Skills](https://skillicons.dev/icons?i=terraform,ansible)](https://jedipunkz.github.io/about/interested/)
 
 ### Middleware, Tools
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,docker)](https://jedipunkz.github.io/about/interested/)
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,docker)](https://jedipunkz.github.io/about/interested/) [<img src="./assets/datadog.svg" alt="Datadog" width="48" height="48" />](https://jedipunkz.github.io/about/interested/)
 
 ### Programing Language
-[![My Skills](https://skillicons.dev/icons?i=go,python)](https://jedipunkz.github.io/about/interested/)
+[![My Skills](https://skillicons.dev/icons?i=go,python,ts)](https://jedipunkz.github.io/about/interested/)
 
 ### Editor
 
