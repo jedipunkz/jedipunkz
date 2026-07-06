@@ -25,7 +25,7 @@ See my blog: https://jedipunkz.rocks
 
 ## Currently Learning
 
-- 🔭 Go Coding
+- 🔭 Go / TypeScript Coding
 - 🌱 Security
 - 📫 Data Analytics Platform
 
